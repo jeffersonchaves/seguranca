@@ -1,2 +1,2 @@
 # seguranca
-Aplicação para teste de segurança
+Aplicação para testes de segurança
