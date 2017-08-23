@@ -1,1 +1,1 @@
-<p>Site com vulnerabilidades e falhas de segurança em PHP</p>
+<p>Site com vulnerabilidades e falhas de segurança em PHP e só deve ser usado com o exemplo de como não se fazer uma aplicação.</p>

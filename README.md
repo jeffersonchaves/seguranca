@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 INTRODUÇÃO A SEGURANÇA WEB COM PHP - APRESENTAÇÃO DE UM SISTEMA VUNERÁVEL
 
@@ -17,3 +18,7 @@ Faça ataques para verificar a segurança de suas aplicações.
 
 
 
+=======
+# seguranca
+Aplicação para testes de segurança
+>>>>>>> 4993dd6639cfca254b29401ef30de400e149f9a4
