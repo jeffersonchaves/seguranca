@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<?php
+// Variable to check
+$newstr = "<script>Peter's here!</script>";
+
+// Remove HTML tags from string
+$newstr = filter_var($newstr, FILTER_SANITIZE_STRING);
+$newstr = filter_var($newstr, FILTER_SANITIZE_MAGIC_QUOTES);
+echo $newstr;
+?>
+
+</body>
+</html>
